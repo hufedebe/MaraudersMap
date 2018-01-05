@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaraudersMap</string>
+    <string name="home">Inicio</string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+
+</resources>
